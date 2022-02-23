@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run dspa.py
+web: sh setup.sh && streamlit run osman.py
